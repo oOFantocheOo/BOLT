@@ -1,0 +1,46 @@
+{
+  "statusCode": 200,
+  "requestId": "74ea40ed-7756-4c90-a665-3723ff20139f",
+  "result": {
+    "bankAccounts": [
+      {
+        "branchNumber": "1289",
+        "relatedCustomerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+        "maskedAccountNumber": "95***59",
+        "type": "SDA",
+        "openDate": "2018-03-01",
+        "id": "4766c96b-10ea-4c7f-8fb7-6540aa649d10",
+        "balance": 17775.22,
+        "currency": "CAD"
+      },
+      {
+        "branchNumber": "1289",
+        "relatedCustomerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+        "maskedAccountNumber": "13***96",
+        "type": "DDA",
+        "openDate": "2018-03-01",
+        "id": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+        "balance": 27747.48,
+        "currency": "CAD"
+      }
+    ],
+    "creditCardAccounts": [
+      {
+        "id": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+        "balance": 651.02,
+        "relatedCustomerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+        "maskedNumber": "95*************84",
+        "type": "VISA",
+        "openDate": "2018-03-01T00:00:00",
+        "card": {
+          "securityCode": "681",
+          "maskedNumber": "45************41",
+          "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+          "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+          "nameOnCard": "Aby Marten"
+        },
+        "currency": "CAD"
+      }
+    ]
+  }
+}

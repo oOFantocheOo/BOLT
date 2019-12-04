@@ -1,0 +1,29 @@
+{
+  "statusCode": 200,
+  "requestId": "bc1e468b-135e-4cb7-9335-e7b3f0a4a392",
+  "result": {
+    "id": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+    "type": "Personal",
+    "givenName": "Aby",
+    "surname": "Marten",
+    "age": 56,
+    "gender": "Female",
+    "birthDate": "1963-10-21",
+    "workActivity": "fulltime",
+    "occupationIndustry": "5416 Management, scientific and technical consulting services",
+    "totalIncome": 43938.05,
+    "relationshipStatus": "Married",
+    "habitationStatus": "With Spouse",
+    "addresses": {
+      "principalResidence": {
+        "municipality": "Scarborough",
+        "postalCode": "M1V 4T1",
+        "streetName": "Passmore Ave",
+        "latitude": 43.831155945,
+        "longitude": -79.254932238,
+        "addressType": 115001,
+        "streetNumber": "830"
+      }
+    }
+  }
+}
